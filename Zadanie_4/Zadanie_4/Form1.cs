@@ -54,9 +54,10 @@ namespace Zadanie_4
 
                         fileContent = reader.ReadToEnd();
                         koords_bad = fileContent.Split('\n');
+                        
 
                         Console.WriteLine(koords_bad.ToString());
-                        for (int i = 0; i < 499; i++)
+                        for (int i = 0; i < (koords_bad.Length - 1); i++)
                         {
                             string temp = koords_bad[i];
                             //Console.WriteLine(temp);
