@@ -1,0 +1,11 @@
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe.config
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.exe
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\bin\Debug\Zadanie_4.pdb
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.AssemblyReference.cache
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.SuggestedBindingRedirects.cache
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.Form1.resources
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.Properties.Resources.resources
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.GenerateResource.cache
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.csproj.CoreCompileInputs.cache
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.exe
+D:\studia\sem 3\programowanie aplikacji\Zadanie_4\Zadanie_4\obj\Debug\Zadanie_4.pdb
